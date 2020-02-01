@@ -1,0 +1,31 @@
+.style1 {
+    background-color: #545454;
+    padding-bottom: 0px;
+    font-family: monospace;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(black), color-stop(5%, white), color-stop(8%, white), color-stop(13%, white), color-stop(18%, #636363), color-stop(24%, white), color-stop(56%, #a64e4e), to(white));
+    background-image: linear-gradient(0deg, black 0%, white 5%, white 8%, white 13%, #636363 18%, white 24%, #a64e4e 56%, white 100%)
+}
+.style2 {
+    background-color: #b08585;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#a84c4c), to(white));
+    background-image: linear-gradient(0deg, #a84c4c 0%, white 100%)
+}
+.menubar {}
+.menubar {}
+.menu {
+    background-color: #f0b8b8;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#632b2b), to(white));
+    background-image: linear-gradient(0deg, #632b2b 0%, white 100%)}
+.style3 {
+    color: #9e2e2e;
+    background-color: #784343
+}
+.style4 {
+    padding-left: 15px
+}
+.footer {}
+.style5 {
+    padding-top: 0px;
+    background-color: #fff
+}
+.style6 {}
